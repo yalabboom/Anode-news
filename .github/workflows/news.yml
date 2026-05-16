@@ -2,7 +2,7 @@ name: 음극재 뉴스 텔레그램 봇
 
 on:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
 
 jobs:
